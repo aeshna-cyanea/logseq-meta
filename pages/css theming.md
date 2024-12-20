@@ -1,0 +1,2 @@
+- [Block Properties UI: Auto-Hiding/Revealing-on-Hover - #2 by FlorianF - Questions & Help - Logseq](https://discuss.logseq.com/t/block-properties-ui-auto-hiding-revealing-on-hover/20631/2)
+	- [Collapse/Hide Properties Easily - #5 by hulalala - Feature Requests - Logseq](https://discuss.logseq.com/t/collapse-hide-properties-easily/5583/5)
