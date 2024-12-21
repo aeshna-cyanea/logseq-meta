@@ -1,2 +1,2 @@
-- [[cool plugins]] - plugins i
-- [[wishlist]]
+- [[cool plugins]] - plugins i liked, sorted and categorized
+- [[wishlist]] - what i wish would be worked on
