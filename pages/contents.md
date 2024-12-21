@@ -1,1 +1,2 @@
--
+- [[cool plugins]] - plugins i
+- [[wishlist]]
