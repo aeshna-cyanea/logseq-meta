@@ -56,7 +56,7 @@
 			- trivia: made by the first [logseq hobbit](https://pengx17.vercel.app/posts/my-logseq-contributions)
 			- TODO make it work with the focused block even when not in edit mode
 		- #totry [logseq-awesome-props](https://github.com/yoyurec/logseq-awesome-props) customize how properties look
-			- there
+			- TODO there should be fine grained visibility controls for focused/unfocused and folded/unfolded
 		- [logseq-copy-code-plugin](https://github.com/vyleung/logseq-copy-code-plugin) Copy code from code blocks to your clipboard
 		  collapsed:: true
 			- TODO always visible for inline blocks
