@@ -8,7 +8,7 @@
 	  CLOCK: [2024-12-19 Thu 13:17:36]
 	  :END:
 		- TODO there's already a mouse hover preview for references that displays the block in editable form - figure out how to invoke it from keyboard.
-	- also, a command/config option to increase context when jumping to an embedded block
+	- command/config option to increase context when jumping to an embedded block
 	- select original ancestor block (so you don't have to use ctrl-a like 6 times you're deep in the weeds)
 - inputting quotes while a string is selected wraps the string in quotes.
   id:: 67631850-7c5e-441d-a8f8-36cca93058a3
