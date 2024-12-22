@@ -1,2 +1,3 @@
-- [what i wish was worked on]([[wishlist]])
-- [plugins i liked]([[cool plugins]])
+- [bugs/features i think need to be worked on]([[wishlist]])
+- [plugins i like]([[cool plugins]])
+- [plugins i would like to see made]([[plugin wishlist]])
