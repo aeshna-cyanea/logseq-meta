@@ -46,6 +46,7 @@
 		- we should be able to edit the block context menu in a config file. some extensions don't need a context menu item because we already use their keyboard shortcut. context menu only for rarely used stuff
 		- we should be able to filter by categories of keybinds when searching in the keybind config
 			- maybe also split up keybinds between view mode and edit mode? #proposal
+- undo-tree. some wonderful guy tried and failed to get it into vscode (after a valiant attempt, see [the back and forth on this issue](https://github.com/microsoft/vscode/issues/20889))
 - extension controls. we should be able to:
 	- rearrange extension buttons with drag and drop
 	- let extensions define custom behaviour on alternate clicks on their button(right, middle) and while holding mod keys.
@@ -61,9 +62,6 @@
 				- then if it gets moved, the parents are updated!
 		- "quietly" link to a page such that the edge doesn't show up in graph visualization
 		  id:: 676200f1-fb2a-4c1f-a4de-ea3294bc7d06
-- undo-tree
-  
-  some wonderful guy tried and failed to get it into vscode (after a valiant attempt, see [the back and forth on this issue](https://github.com/microsoft/vscode/issues/20889))
 - add an option to make automated scrolling instant, but have the scrollbar catch up smoothly while leaving a visual "shadow" at its point of origin.
 	- this way i can get to my content instantly when i know where i'm going, but if i'm taken somewhere unexpected (either bug or fatfinger) then i can check the scrollbar to see where i came from and reorient
 - plugin wishlist (roughly sorted by desirability)
