@@ -11,7 +11,7 @@
 		- is there no keyboard based way to navigate up out of a zoomed in block unless you're in edit mode?
 			- the command is called "Zoom out editing block / Backwards otherwise" and it works (in edit mode)
 				- but when not in edit mode it doesn't even go back!
-				- but his commands really should be split and "zoom out/go to parent block" should work always
+				- really these commands should be split and "zoom out/go to parent block" should work in view mode as well
 					- ((676199c1-c0a0-42de-839e-7781f134d629)) has an action for this, could maybe be patched. "zoom out" and "scroll to parent" should definitely be a single command
 		- find prompt
 			- ["Find in page" does not focus the find prompt if it is already open unfocused](https://github.com/logseq/logseq/issues/8360)
