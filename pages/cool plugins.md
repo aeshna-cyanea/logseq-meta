@@ -102,7 +102,7 @@
 			- TODO option to put open graph fields (or other meta info gleaned from html tags?) into block children or block properties
 			- [logseq-recipeimporter-plugin](https://github.com/hkgnp/logseq-recipeimporter-plugin) same thing but specifically for recipes
 	- ## specific services.
-		- TODO ideally these would all have a unified interface and be called by url from a capture plugin
+		- TODO ideally these would all have a unified interface and be called by url from a capture plugin. maybe write middleware about it?
 		- [logseq-hypothesis](https://github.com/c6p/logseq-hypothesis)  plugin for hypothes.is
 		- [logseq-inbox-telegram-plugin](https://github.com/shady2k/logseq-inbox-telegram-plugin) fetch from a telegram bot. requires heroku
 		- [logseq-tweet-extractor](https://github.com/sawhney17/logseq-twitter-extractor) parse tweets into custom template
@@ -117,6 +117,7 @@
 		- #totry [logseq-trello-plugin](https://github.com/jarodise/logseq-trello-plugin) two-way sync
 		- #totry [logseq-nostr-sync](https://github.com/KoalaSat/logseq-nostr-sync) one-way (down)
 		- wishlist for more services
+		  collapsed:: true
 			- {{embed ((676301a9-2fb0-4f3e-ae75-b8b7225b2d25))}}
 - # todos and time management
   query-table:: false
@@ -162,14 +163,13 @@
 		  collapsed:: true
 			- TODO better to set up github hooks to auto sync every commit (for data safety)
 			- TODO also a custom script to close logseq and open a git client to squash/cleanup the history.
-	- asset management
+	- ## asset management
 		- TODO these should really be merged and integrated. for now figure out which is better
 			- #totry [logseq-plugin-file-manager](https://github.com/haydenull/logseq-plugin-file-manager) A file manager plugin for logseq (Search unused assets file).
 			- #totry [GitHub - benjypng/logseq-localassets-plugin](https://github.com/benjypng/logseq-localassets-plugin)
 			- #totry [GitHub - YU000jp/logseq-plugin-multiple-assets: Save multiple files into assets](https://github.com/YU000jp/logseq-plugin-multiple-assets)
 			- #totry https://github.com/b-yp/logseq-link-to-local
 - TODO look at possible cool plugins by
-  collapsed:: true
   :LOGBOOK:
   CLOCK: [2024-12-17 Tue 20:06:27]--[2024-12-17 Tue 20:06:28] =>  00:00:01
   CLOCK: [2024-12-18 Wed 01:57:18]--[2024-12-18 Wed 01:57:20] =>  00:00:02

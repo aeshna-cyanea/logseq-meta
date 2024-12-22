@@ -92,11 +92,11 @@
 		- web hosted logseq pages
 		- bluesky
 			- https://github.com/callmephilip/bsky2md
+		- hackernews
 		- mastodon
+		- lemmy
 		- reddit
 		  id:: 6764239e-f627-4646-bc65-447f48cefa43
-		- hackernews
-		- lemmy
 		- tumblr
 		- lobste.rs
 	- tampermonkey D: we already have custom.js this would just make it easier to manage
