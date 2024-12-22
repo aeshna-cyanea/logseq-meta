@@ -1,6 +1,4 @@
 - bugs and basic borked functionality
-	- TODO github search for all of these. i bet they all have long standing issues
-		- also search for prs from bad3r on discord. they seem to have their head on their shoulders and a lot of good ideas for fixing basic broken stuff
 	- navigation
 		- ctrl-k annoyances
 			- block search matches should be above the create page button!! if there is a matching block i'm hell of a lot more likely to want the match than to make a new page
@@ -10,17 +8,15 @@
 				  id:: 67620c49-6c6c-4d1d-840a-8ab35ecd0b4c
 				  losing visual context (from unexpected page jumps) sucks so bad.
 					- when i "go to" a block that is on the same page as the current one, it should just scroll to that block. i can decide myself whether to zoom in after
-		- is there no keyboard based way to navigate up out of a zoomed in block unless you're in edit mode? wtf
-		  collapsed:: true
-			- the command is called "Zoom out editing block / Backwards otherwise" and it works in edit mode
+		- is there no keyboard based way to navigate up out of a zoomed in block unless you're in edit mode?
+			- the command is called "Zoom out editing block / Backwards otherwise" and it works (in edit mode)
 				- but when not in edit mode it doesn't even go back!
 				- but his commands really should be split and "zoom out/go to parent block" should work always
 					- ((676199c1-c0a0-42de-839e-7781f134d629)) has an action for this, could maybe be patched. "zoom out" and "scroll to parent" should definitely be a single command
-		- find prompt needs work
+		- find prompt
 			- ["Find in page" does not focus the find prompt if it is already open unfocused](https://github.com/logseq/logseq/issues/8360)
 			- does not display all matches in the scroll bar like a modern browser
 			- does not support regex (ok this is optional, but the first two are kinda necessary)
-		- the tooltips on back/forward buttons do not match the actual keyboard shortcut
 	- text editing
 		- ((67631850-7c5e-441d-a8f8-36cca93058a3))
 		- ((676301a9-62b5-42d7-b88d-d516bc4ec0ef))
@@ -36,6 +32,8 @@
 			- you can `@import url("../assets/custom/header_label.css");` but i [had to google for it](https://discuss.logseq.com/t/custom-css-cant-import/3297/4).
 				- TODO proposal: just have a global.css and have it be imported by default in new graphs
 		- TODO footgun: `ctrl-r` should not be bound by default to reload. doesn't this cause data loss? make it `ctrl-shift-r`
+	- TODO github search for all of these. i bet they all have long standing issues
+		- also search for prs from bad3r on discord. they seem to have their head on their shoulders and a lot of good ideas for fixing basic broken stuff
 	- [user perceptions of tech debt](https://old.reddit.com/r/logseq/comments/1cc6jiz/the_logseq_team_is_a_terrible_steward_of_logseq/l1kvi9t/) (this comment is relatively friendly, the rest of the thread is pretty mean)
 		- they do kinda raise a valid point, the development of rum is really slow - no releases in years. If logseq is so active (and very demanding performance wise), why aren't they contributing patches upstream?
 - unify and properly document commands
