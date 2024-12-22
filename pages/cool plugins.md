@@ -1,7 +1,8 @@
 - #+BEGIN_NOTE
   lists sorted mostly by perceived usefulness/coolness
   #+END_NOTE
-- organization in general. most of these should really be merged into the main app imo
+- # organization in general
+  most of these should really be merged into the main app imo
 	- navigation
 	  id:: 676185bd-6d4e-423d-8294-3c1ad139ee5b
 		- [logseq-plugin-jump-to-block](https://github.com/freder/logseq-plugin-jump-to-block) search and scroll to a block, unfolding as needed
@@ -32,6 +33,7 @@
 				- ((676199c1-c0a0-42de-839e-7781f134d629)) has kanban and gallery views as well
 			- #totry [logseq-custom-files](https://github.com/cannibalox/logseq-custom-files) resizable query results columns, better twitter embeds, better sidebar
 			- [logseq-toc-plugin](https://github.com/benjypng/logseq-toc-plugin)
+				- TODO make it work with indentation levels, not just markdown headings
 	- block manipulation
 		- #totry [logseq13-missing-commands](https://github.com/stdword/logseq13-missing-commands) lots of stuff, see readme
 		  id:: 676199c1-c0a0-42de-839e-7781f134d629
@@ -58,7 +60,7 @@
 			- TODO also has redundant styling and block manipulation commands. fork it and remove the redundant ones
 		- [logseq-copy-url](https://github.com/RubenSmn/logseq-copy-url) adds copy button to links
 		- [logseq-plugin-link-preview](https://github.com/pengx17/logseq-plugin-link-preview) adds opengraph previews
-- for taking notes/data ingestion
+- # for taking notes/data ingestion
 	- videos
 		- #totry [whisper-subtitles](https://github.com/usoonees/logseq-plugin-whisper-subtitles)
 		  :LOGBOOK:
@@ -118,7 +120,7 @@
 		- #totry [logseq-nostr-sync](https://github.com/KoalaSat/logseq-nostr-sync) one-way (down)
 		- wishlist for more services
 			- {{embed ((676301a9-2fb0-4f3e-ae75-b8b7225b2d25))}}
-- todos and time management
+- # todos and time management
   query-table:: false
 	- automation
 	  collapsed:: true
@@ -144,7 +146,7 @@
 		  :LOGBOOK:
 		  CLOCK: [2024-12-17 Tue 18:23:36]--[2024-12-17 Tue 18:23:37] =>  00:00:01
 		  :END:
-- support for specialized formatting
+- # support for specialized formatting
 	- [logseq-markdown-table](https://github.com/haydenull/logseq-plugin-markdown-table) Markdown Table Editor
 	- #totry [logseq-discourse-graphs](https://github.com/sawhney17/logseq-discourse-graphs) Discourse Graph workflows in Logseq
 	- #totry [logseq-plugin-areas](https://github.com/bsongOT/logseq-plugin-areas) area maps. whoa
@@ -152,7 +154,7 @@
 	- #totry [logseq-preview-footnote](https://github.com/b-yp/logseq-preview-footnote) footnote with hover preview
 	  collapsed:: true
 		- this should be a special syntax for a reference alias actually. [alias](((67613b07-1c02-4d64-b748-35b1a52ada3b)))
-- integrate with other apps
+- # integrate with other apps
 	- [logseq-open-in-code](https://github.com/rebornix/logseq-open-in-code) open file or graph in vscode. useful for find and replace
 	  id:: 676186f2-ba8d-49ee-ab61-62d4ea805538
 		- TODO add keyboard shortcuts
