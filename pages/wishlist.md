@@ -68,7 +68,7 @@
 		  id:: 676200f1-fb2a-4c1f-a4de-ea3294bc7d06
 - add an option to make automated scrolling instant, but have the scrollbar catch up smoothly while leaving a visual "shadow" at its point of origin.
 	- this way i can get to my content instantly when i know where i'm going, but if i'm taken somewhere unexpected (either bug or fatfinger) then i can check the scrollbar to see where i came from and reorient
-- support for end-user "literate programming" (as prohesied by stallman and more recently maggie appleton)! macros but actually cool. This is a big draw of emacs/org-mode and we should do more to exploit the fact that we're working in cljs.
+- support for end-user "literate programming" (as prohesied by maggie appleton)! macros but actually cool. This is a big draw of emacs/org-mode and we should do more to exploit the fact that we're working in cljs.
 	- ui description
 		- a block could have a button to attach a codeblock of javascript or clojurescript (with included query capability, access to logseq features, functions from plugins, etc) and a "run" button
 			- needs to be safe
