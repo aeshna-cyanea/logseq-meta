@@ -2,19 +2,18 @@
   lists sorted mostly by perceived usefulness/coolness
   #+END_NOTE
 - # organization in general
-  most of these should really be merged into the main app imo
+	- most of these should really be merged into the main app imo
 	- navigation
 	  id:: 676185bd-6d4e-423d-8294-3c1ad139ee5b
 		- [logseq-plugin-jump-to-block](https://github.com/freder/logseq-plugin-jump-to-block) search and scroll to a block, unfolding as needed
 		  id:: 676202f0-06eb-4c08-a4ba-bfccfdf0aa4f
-		  collapsed:: true
 			- only drawback is that it doesn't search other pages or rendered text (from embeds etc).
 			- uses a [custom scrollTo function](https://github.com/freder/logseq-plugin-jump-to-block/blob/e4a1374495b12e16d9ec4e9044467d63b083de78/src/components/App.tsx#L29)
 			  id:: 676301aa-0bd2-4dd0-af07-94ce723d1be3
 				- except how does it unfold folded blocks?
 			- TODO make the window resizeable. want it huge and near centered
 			- TODO enter key opens the first result
-			- TODO when previewing results, save the original scroll position (and focus target) and go back to it when cancelling the jump
+			- TODO when previewing results, save the original scroll position (and focus target) and go back to it when cancelling the search
 			- TODO add case sensitivity and maybe regex
 		- [logseq-save-scrollbar-position](https://github.com/studyduck/logseq-save-scrollbar-position) preserves scroll position when navigating
 		  id:: 67618731-9058-485d-84ee-7da166efec6a
@@ -29,7 +28,6 @@
 					- a way to show the logseq context menu would be ideal
 			- #totry [logseq-graph-analysis](https://github.com/trashhalo/logseq-graph-analysis) Learn more about the relationships between between your notes using network analysis algorithms.
 			- #totry [GitHub - cannibalox/logtools](https://github.com/cannibalox/logtools) utilities for kanban chart, image gallery, numbered lists with numbered subsections (!), etc. see readme
-			  collapsed:: true
 				- ((676199c1-c0a0-42de-839e-7781f134d629)) has kanban and gallery views as well
 			- #totry [logseq-custom-files](https://github.com/cannibalox/logseq-custom-files) resizable query results columns, better twitter embeds, better sidebar
 			- [logseq-toc-plugin](https://github.com/benjypng/logseq-toc-plugin)
@@ -154,7 +152,7 @@
 	- #totry [logseq-preview-footnote](https://github.com/b-yp/logseq-preview-footnote) footnote with hover preview
 	  collapsed:: true
 		- this should be a special syntax for a reference alias actually. [alias](((67613b07-1c02-4d64-b748-35b1a52ada3b)))
-- # integrate with other apps
+- # integration with other apps
 	- [logseq-open-in-code](https://github.com/rebornix/logseq-open-in-code) open file or graph in vscode. useful for find and replace
 	  id:: 676186f2-ba8d-49ee-ab61-62d4ea805538
 		- TODO add keyboard shortcuts
