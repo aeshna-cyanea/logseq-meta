@@ -423,4 +423,5 @@
  :default-home {:page "Contents"}
  :graph/settings {:builtin-pages? false
  :excluded-pages? true}
- :publishing/all-pages-public? true}
+ :publishing/all-pages-public? true
+ }
