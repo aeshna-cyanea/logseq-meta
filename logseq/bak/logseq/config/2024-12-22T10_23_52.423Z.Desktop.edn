@@ -116,7 +116,7 @@
  ;; Publish all pages within the Graph
  ;; Regardless of whether individual pages have been marked as public.
  ;; Default value: false
- ;; :publishing/all-pages-public? false
+ ;; :publishing/all-pages-public? true
 
  ;; Define the default home page and sidebar status.
  ;; If unspecified, the journal page will be loaded on startup and the right sidebar will stay hidden.
@@ -420,7 +420,8 @@
  ;;      ;use Percent-encoding for other invalid characters
  :file/name-format :triple-lowbar
  :feature/enable-journals? false
- :default-home {:page "main"}
- :graph/settings {:builtin-pages? false
- :excluded-pages? true}
- :publishing/all-pages-public? true}
+ :default-home {:page "Contents"}
+ :graph/settings {:builtin-pages? true
+ :excluded-pages? false}
+ :publishing/all-pages-public? true
+ }
