@@ -12,12 +12,12 @@
 	- select original ancestor block (so you don't have to use ctrl-a like 6 times you're deep in the weeds)
 - inputting quotes while a string is selected wraps the string in quotes.
   id:: 67631850-7c5e-441d-a8f8-36cca93058a3
-	- [sethyuan was holding up half of logseq's basic functionality, please come back man. left-pad moment](https://discord.com/channels/725182569297215569/752845167030960141/1199153970833281145)
-	- already implemented in "magic quotes" command of ((676199c1-c0a0-42de-839e-7781f134d629)), just need to make it passively
+	- [sethyuan really was holding up half of logseq's basic functionality, please come back man. left-pad moment](https://discord.com/channels/725182569297215569/752845167030960141/1199153970833281145)
+	- already implemented in "magic quotes" command of ((676199c1-c0a0-42de-839e-7781f134d629)), just need to make it kick in passively
 - "polyfill" for ((676200f1-1f67-44c0-94e7-6500a19672f4)). can be based on ((676301aa-0bd2-4dd0-af07-94ce723d1be3))
 - pasting content on an focused block (while in view mode) block pastes the content as a new block under it
   id:: 676301a9-62b5-42d7-b88d-d516bc4ec0ef
-- truncate long urls when editing. clicking the url makes it full-length/editable.
+- truncate long formatted urls when editing. putting the cursor on the url expands it.
   collapsed:: true
 	- i generally hate rich-text/wysiwyg editing but making an exception here
 - tampermonkey D: we already have custom.js this would just make it easier to manage
