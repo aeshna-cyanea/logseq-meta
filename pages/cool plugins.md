@@ -128,11 +128,9 @@
 - # todos and time management
   query-table:: false
 	- automation
-	  collapsed:: true
-		- [logseq-task-automation](https://github.com/aiirobyte/logseq-task-automation)
-		  collapsed:: true
-			- auto toggling parent doesn't work :| #bug
-			- neither do the commands (they use the [[manual command config]]) #bug
+		- #didnotwork [logseq-task-automation](https://github.com/aiirobyte/logseq-task-automation)
+			- auto toggling parent doesn't work :|
+			- neither do the commands (they also use the [[manual command config]])
 	- [logseq-todo-plugin](https://github.com/haydenull/logseq-plugin-markdown-table) quickly search your TODO items and easily add one to today's journal page
 	- #totry [logseq-pomodoro-plugin](https://github.com/sawhney17/logseq-pomodoro-plugin) pomodoro timer
 	- completion date (figure out which works better)
