@@ -1,2 +1,2 @@
-- [[cool plugins]] - plugins i liked
-- [[wishlist]] - what i wish was worked on
+- [what i wish was worked on]([[wishlist]])
+- [plugins i liked]([[cool plugins]])

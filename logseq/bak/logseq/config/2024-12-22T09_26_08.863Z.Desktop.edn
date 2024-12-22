@@ -10,7 +10,7 @@
  ;; Available options:
  ;; - :now for NOW/LATER style (default)
  ;; - :todo for TODO/DOING style
- :preferred-workflow :now
+ :preferred-workflow :todo
 
  ;; Exclude directories/files.
  ;; Example usage:
@@ -116,7 +116,7 @@
  ;; Publish all pages within the Graph
  ;; Regardless of whether individual pages have been marked as public.
  ;; Default value: false
- ;; :publishing/all-pages-public? false
+ ;; :publishing/all-pages-public? true
 
  ;; Define the default home page and sidebar status.
  ;; If unspecified, the journal page will be loaded on startup and the right sidebar will stay hidden.
@@ -299,7 +299,7 @@
  ;;  :charge-range    600}   ; Default value: 600
 
  ;; Favorites to list on the left sidebar
- :favorites []
+ :favorites ["cool plugins" "LATER"]
 
  ;; Set flashcards interval.
  ;; Expected value:
@@ -314,7 +314,7 @@
 
  ;; Hide specific block properties.
  ;; Example usage:
- ;; :block-hidden-properties #{:public :icon}
+ ;; :block-hidden-properties #{:public :icon :should-be-merged}
 
  ;; Create a page for all properties.
  ;; Default value: true
@@ -420,6 +420,8 @@
  ;;      ;use Percent-encoding for other invalid characters
  :file/name-format :triple-lowbar
  :feature/enable-journals? false
- :default-home {:page "main"}
- :graph/settings {:builtin-pages? false
- :excluded-pages? false}}
+ :default-home {:page "Contents"}
+ :graph/settings {:builtin-pages? true
+ :excluded-pages? true}
+ :publishing/all-pages-public? true
+ }
