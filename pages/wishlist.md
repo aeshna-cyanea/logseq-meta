@@ -21,7 +21,7 @@
 		- ((67631850-7c5e-441d-a8f8-36cca93058a3))
 		- ((676301a9-62b5-42d7-b88d-d516bc4ec0ef))
 		- sometimes undoing doesn't work [related feature request](((6767da5c-d6d9-43c1-912c-11bdea91ab6a)))
-		- clicking on a block doesn't always put the cursor where you clicked, sometimes it gets put at the beginning or end. very annoying
+		- clicking on a block doesn't always put the cursor where you clicked, sometimes it gets put at the beginning or end. very annoying and probably fixable
 	- other (sorted by annoyance level):
 		- [aliases are always visible on graph](https://discuss.logseq.com/t/improve-implementation-of-aliases/81/40) [matching github issue](https://github.com/logseq/logseq/issues/4709)
 		- deleting the top level block from inside an embed should also kill original block "in real life".
