@@ -3,7 +3,7 @@
 	- toggle folding of the Xth level of current block or document
 		- more complex: also command to toggle fold of the deepest level that isn't entirely folded/unfolded. enables neat flow where you can progressively (un)fold children level by level
 	- go to next same-level block (as selected one)
-	- command to quickly preview a block in a reference (with context and children)
+	- command to quickly preview a block in a reference (with context and children
 	  :LOGBOOK:
 	  CLOCK: [2024-12-19 Thu 13:17:36]
 	  :END:
