@@ -3,7 +3,7 @@
   #+END_NOTE
 - # organization in general
 	- most of these should really be merged into the main app imo
-	- navigation
+	- ## navigation
 	  id:: 676185bd-6d4e-423d-8294-3c1ad139ee5b
 		- [logseq-plugin-jump-to-block](https://github.com/freder/logseq-plugin-jump-to-block) search and scroll to a block, unfolding as needed
 		  id:: 676202f0-06eb-4c08-a4ba-bfccfdf0aa4f
@@ -32,7 +32,7 @@
 			- #totry [logseq-custom-files](https://github.com/cannibalox/logseq-custom-files) resizable query results columns, better twitter embeds, better sidebar
 			- [logseq-toc-plugin](https://github.com/benjypng/logseq-toc-plugin)
 				- TODO make it work with indentation levels, not just markdown headings
-	- block manipulation
+	- ## block manipulation
 		- #totry [logseq13-missing-commands](https://github.com/stdword/logseq13-missing-commands) lots of stuff, see readme
 		  id:: 676199c1-c0a0-42de-839e-7781f134d629
 		- #totry  [logseq-quick-add-plugin](https://github.com/vyleung/logseq-quick-add-plugin)  commands to add and duplicate blocks and insert current time
@@ -46,7 +46,7 @@
 		- [logseq-quick-date](https://github.com/13hannes11/logseq-quick-date) commands to insert relative date, such as 'Last Wednesday' and 'Next Friday'
 		  collapsed:: true
 			- TODO extend to add days of the month, not just next/last week
-	- block presentation
+	- ## block presentation
 		- [logseq-bullet-threading](https://github.com/pengx17/logseq-plugin-bullet-threading) Add threading indicators to your active block
 		  collapsed:: true
 			- trivia: made by the first [logseq hobbit](https://pengx17.vercel.app/posts/my-logseq-contributions)
@@ -58,14 +58,14 @@
 			- TODO also has redundant styling and block manipulation commands. fork it and remove the redundant ones
 		- [logseq-copy-url](https://github.com/RubenSmn/logseq-copy-url) adds copy button to links
 		- [logseq-plugin-link-preview](https://github.com/pengx17/logseq-plugin-link-preview) adds opengraph previews
-- # for taking notes/data ingestion
-	- videos
+- # data ingestion
+	- ## videos
 		- #totry [whisper-subtitles](https://github.com/usoonees/logseq-plugin-whisper-subtitles)
 		  :LOGBOOK:
 		  CLOCK: [2024-12-17 Tue 11:30:56]--[2024-12-17 Tue 11:30:57] =>  00:00:01
 		  :END:
 		- [helium: a Logseq plugin to float items (e.g. videos) for an improved note-taking experience](https://github.com/vyleung/logseq-helium-plugin)
-	- webpages
+	- ## webpages
 		- TODO https://github.com/pomali/logseq-plugin-automatic-url-title install/test this and publish the forked version
 		  collapsed:: true
 			- TODO needs a command to toggle itself on/off for when it's not needed
@@ -101,7 +101,7 @@
 		  id:: 676141f7-e755-4a5b-8f59-3e83660c0bc9
 			- TODO option to put open graph fields (or other meta info gleaned from html tags?) into block children or block properties
 			- [logseq-recipeimporter-plugin](https://github.com/hkgnp/logseq-recipeimporter-plugin) same thing but specifically for recipes
-	- specific services.
+	- ## specific services.
 		- TODO ideally these would all have a unified interface and be called by url from a capture plugin
 		- [logseq-hypothesis](https://github.com/c6p/logseq-hypothesis)  plugin for hypothes.is
 		- [logseq-inbox-telegram-plugin](https://github.com/shady2k/logseq-inbox-telegram-plugin) fetch from a telegram bot. requires heroku
