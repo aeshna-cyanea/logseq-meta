@@ -21,21 +21,21 @@
 		- ### alternate views
 			- [logseq-classy](https://github.com/mlanza/logseq-classy) Facilitates otherwise impossible custom stylesheets by applying classes to blocks identified in custom queries. enables:
 				- #totry [logseq-style-carousel](https://github.com/mlanza/logseq-style-carousel) Add button(s) for stylesheet-driven effects such as toggling the visibility of completed to-dos.
-					- TODO why
-			- #didnotwork [logseq-filterpage-plugin](https://github.com/benjypng/logseq-filterpage-plugin) Quickly filter the current page based on tags that you want to include or exclude. only a plain filter, but with arbitrary value
+					- TODO couldn't figure out how to disable default button
 			- [logseq-plugin-mark-map](https://github.com/vipzhicheng/logseq-plugin-mark-map) mind map view
 			  collapsed:: true
 				- TODO css should be moddable, looks too cramped by default
 				- TODO more keyboard controls
 					- command for editing a block
 					- a way to show the logseq context menu would be ideal
+			- [logseq-toc-plugin](https://github.com/benjypng/logseq-toc-plugin)
+			  collapsed:: true
+				- TODO make it work with indentation levels, not just markdown headings
 			- #totry [logseq-graph-analysis](https://github.com/trashhalo/logseq-graph-analysis) Learn more about the relationships between between your notes using network analysis algorithms.
 			- #totry [GitHub - cannibalox/logtools](https://github.com/cannibalox/logtools) utilities for kanban chart, image gallery, numbered lists with numbered subsections (!), etc. see readme
 				- ((676199c1-c0a0-42de-839e-7781f134d629)) has kanban and gallery views as well
 			- #totry [logseq-custom-files](https://github.com/cannibalox/logseq-custom-files) resizable query results columns, better twitter embeds, better sidebar
-			- [logseq-toc-plugin](https://github.com/benjypng/logseq-toc-plugin)
-			  collapsed:: true
-				- TODO make it work with indentation levels, not just markdown headings
+			- #didnotwork [logseq-filterpage-plugin](https://github.com/benjypng/logseq-filterpage-plugin) Quickly filter the current page based on tags that you want to include or exclude. only a plain filter, but with arbitrary value
 	- ## block manipulation
 		- #totry [logseq13-missing-commands](https://github.com/stdword/logseq13-missing-commands) lots of stuff, see readme
 		  id:: 676199c1-c0a0-42de-839e-7781f134d629
