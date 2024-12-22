@@ -24,8 +24,7 @@
 	- text editing
 		- ((67631850-7c5e-441d-a8f8-36cca93058a3))
 		- ((676301a9-62b5-42d7-b88d-d516bc4ec0ef))
-		- sometimes undoing doesn't work
-			-
+		- sometimes undoing doesn't work ((6767da5c-d6d9-43c1-912c-11bdea91ab6a))
 	- other (sorted by annoyance level):
 		- [aliases are always visible on graph](https://discuss.logseq.com/t/improve-implementation-of-aliases/81/40) [matching github issue](https://github.com/logseq/logseq/issues/4709)
 		- deleting the top level block from inside an embed should also kill original block "in real life".
@@ -48,8 +47,9 @@
 		- we should be able to edit the block context menu in a config file. some extensions don't need a context menu item because we already use their keyboard shortcut. context menu only for rarely used stuff
 		- we should be able to filter by categories of keybinds when searching in the keybind config
 			- maybe also split up keybinds between view mode and edit mode? #proposal
-- undo-tree. some wonderful guy tried and failed to get it into vscode (after a valiant attempt, see [the back and forth on this issue](https://github.com/microsoft/vscode/issues/20889))
-	-
+- a way to quickly look at the undo buffer. sometimes undoing an action doesn't work and this would at least help restore some context/debug what is missing
+  id:: 6767da5c-d6d9-43c1-912c-11bdea91ab6a
+	- full emacs-style undo-tree. some wonderful guy tried and failed to get it into vscode (after a valiant attempt, see [the back and forth on this issue](https://github.com/microsoft/vscode/issues/20889)). We can (un)do better!
 - extension controls. we should be able to:
 	- rearrange extension buttons with drag and drop
 	- let extensions define custom behaviour on alternate clicks on their button(right, middle) and while holding mod keys.
