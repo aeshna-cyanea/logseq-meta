@@ -1,7 +1,7 @@
 - #+BEGIN_NOTE
   lists sorted mostly by perceived usefulness/coolness
   #+END_NOTE
-- # organization in general
+- # general
 	- most of these should really be merged into the main app imo
 	- ## navigation
 	  id:: 676185bd-6d4e-423d-8294-3c1ad139ee5b
