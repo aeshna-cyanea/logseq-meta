@@ -7,6 +7,7 @@
 	  id:: 676185bd-6d4e-423d-8294-3c1ad139ee5b
 		- [logseq-plugin-jump-to-block](https://github.com/freder/logseq-plugin-jump-to-block) search and scroll to a block, unfolding as needed
 		  id:: 676202f0-06eb-4c08-a4ba-bfccfdf0aa4f
+		  collapsed:: true
 			- only drawback is that it doesn't search other pages or rendered text (from embeds etc).
 			- uses a [custom scrollTo function](https://github.com/freder/logseq-plugin-jump-to-block/blob/e4a1374495b12e16d9ec4e9044467d63b083de78/src/components/App.tsx#L29)
 			  id:: 676301aa-0bd2-4dd0-af07-94ce723d1be3
@@ -17,11 +18,13 @@
 			- TODO add case sensitivity and maybe regex
 		- [logseq-save-scrollbar-position](https://github.com/studyduck/logseq-save-scrollbar-position) preserves scroll position when navigating
 		  id:: 67618731-9058-485d-84ee-7da166efec6a
-		- alternate views
+		- ### alternate views
 			- [logseq-classy](https://github.com/mlanza/logseq-classy) Facilitates otherwise impossible custom stylesheets by applying classes to blocks identified in custom queries. enables:
 				- #totry [logseq-style-carousel](https://github.com/mlanza/logseq-style-carousel) Add button(s) for stylesheet-driven effects such as toggling the visibility of completed to-dos.
+					- TODO why
 			- #didnotwork [logseq-filterpage-plugin](https://github.com/benjypng/logseq-filterpage-plugin) Quickly filter the current page based on tags that you want to include or exclude. only a plain filter, but with arbitrary value
 			- [logseq-plugin-mark-map](https://github.com/vipzhicheng/logseq-plugin-mark-map) mind map view
+			  collapsed:: true
 				- TODO css should be moddable, looks too cramped by default
 				- TODO more keyboard controls
 					- command for editing a block
@@ -31,6 +34,7 @@
 				- ((676199c1-c0a0-42de-839e-7781f134d629)) has kanban and gallery views as well
 			- #totry [logseq-custom-files](https://github.com/cannibalox/logseq-custom-files) resizable query results columns, better twitter embeds, better sidebar
 			- [logseq-toc-plugin](https://github.com/benjypng/logseq-toc-plugin)
+			  collapsed:: true
 				- TODO make it work with indentation levels, not just markdown headings
 	- ## block manipulation
 		- #totry [logseq13-missing-commands](https://github.com/stdword/logseq13-missing-commands) lots of stuff, see readme
@@ -52,6 +56,8 @@
 			- trivia: made by the first [logseq hobbit](https://pengx17.vercel.app/posts/my-logseq-contributions)
 			- TODO make it work with the focused block even when not in edit mode
 		- [logseq-copy-code-plugin](https://github.com/vyleung/logseq-copy-code-plugin) Copy code from code blocks to your clipboard
+		  collapsed:: true
+			- TODO always visible for inline blocks
 		- [logseq-plugin-show-page-date](https://github.com/YU000jp/logseq-plugin-show-page-date) show creation and modification dates on pages.
 		- [logseq-randomutils-plugin](https://github.com/benjypng/logseq-randomutils-plugin) useful for dictionary lookup and google search commands
 		  collapsed:: true
