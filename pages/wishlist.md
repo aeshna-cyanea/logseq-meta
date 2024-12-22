@@ -30,7 +30,7 @@
 			- note: deleting children already works as expected (updates original's children) but not the top level of the embed
 		- there is global.edn but no global.css?
 			- you can `@import url("../assets/custom/header_label.css");` but i [had to google for it](https://discuss.logseq.com/t/custom-css-cant-import/3297/4).
-				- TODO proposal: just have a global.css and have it be imported by default in new graphs
+				- TODO proposal: just have a global.css and have it be imported by default in new graphs. it's not
 		- TODO footgun: `ctrl-r` should not be bound by default to reload. doesn't this cause data loss? make it `ctrl-shift-r`
 	- TODO github search for all of these. i bet they all have long standing issues
 		- also search for prs from bad3r on discord. they seem to have their head on their shoulders and a lot of good ideas for fixing basic broken stuff
