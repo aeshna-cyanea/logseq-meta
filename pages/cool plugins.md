@@ -77,7 +77,6 @@
 		- [helium: a Logseq plugin to float items (e.g. videos) for an improved note-taking experience](https://github.com/vyleung/logseq-helium-plugin)
 	- ## webpages
 		- TODO https://github.com/pomali/logseq-plugin-automatic-url-title install/test this and publish the forked version
-		  collapsed:: true
 			- TODO needs a command to toggle itself on/off for when it's not needed
 			  :LOGBOOK:
 			  CLOCK: [2024-12-17 Tue 20:46:18]--[2024-12-17 Tue 20:46:20] =>  00:00:02
@@ -89,6 +88,7 @@
 				- appending (or even sub-pending) relevant context for e.g. twitter embeds. since we're making the request already
 					- would mean merging this plugin into ((6761960a-2ec4-462a-8e10-7a28dbaf60d8))
 				- sites i like to use, each one needs a regex rule
+				  collapsed:: true
 					- DOING bsky.app
 					  :LOGBOOK:
 					  CLOCK: [2024-12-18 Wed 01:49:53]--[2024-12-18 Wed 01:49:55] =>  00:00:02
@@ -127,7 +127,6 @@
 		- #totry [logseq-trello-plugin](https://github.com/jarodise/logseq-trello-plugin) two-way sync
 		- #totry [logseq-nostr-sync](https://github.com/KoalaSat/logseq-nostr-sync) one-way (down)
 		- wishlist for more services
-		  collapsed:: true
 			- {{embed ((676301a9-2fb0-4f3e-ae75-b8b7225b2d25))}}
 - # todos and time management
   query-table:: false

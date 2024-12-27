@@ -9,6 +9,8 @@
 	  :END:
 		- TODO there's already a mouse hover preview for references that displays the block in editable form - figure out how to invoke it from keyboard.
 	- select original ancestor block (so you don't have to use ctrl-a like 6 times you're deep in the weeds)
+- timestamp support for local audio and video files https://web.archive.org/web/20240826181136/https://github.com/sethyuan/logseq-plugin-media-ts/blob/master/README.en.md
+  id:: 676f3c79-aa49-41ee-8edf-67e7bbaa7afd
 - inputting quotes while a string is selected wraps the string in quotes.
   id:: 67631850-7c5e-441d-a8f8-36cca93058a3
 	- [sethyuan really was holding up half of logseq's basic functionality, please come back man. left-pad moment](https://discord.com/channels/725182569297215569/752845167030960141/1199153970833281145)
@@ -28,6 +30,7 @@
 - "lock" a block to prevent accidental edits
 - more specific versions of ((676141f7-e755-4a5b-8f59-3e83660c0bc9))
   id:: 676301a9-2fb0-4f3e-ae75-b8b7225b2d25
+  collapsed:: true
 	- rss/atom
 		- [logseq-rss-reader](https://github.com/b-yp/logseq-rss-reader) is not it (modal reader, not blocks embed) but maybe worth checking out the libs used
 	- web hosted logseq pages
