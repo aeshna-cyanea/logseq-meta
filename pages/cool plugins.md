@@ -19,7 +19,8 @@
 		- ### alternate views
 			- [logseq-classy](https://github.com/mlanza/logseq-classy) Facilitates otherwise impossible custom stylesheets by applying classes to blocks identified in custom queries. enables:
 				- #totry [logseq-style-carousel](https://github.com/mlanza/logseq-style-carousel) Add button(s) for stylesheet-driven effects such as toggling the visibility of completed to-dos.
-					- TODO couldn't figure out how to disable default button
+				  collapsed:: true
+					- TODO couldn't figure out how to disable the default hide completed tasks button
 			- [logseq-plugin-mark-map](https://github.com/vipzhicheng/logseq-plugin-mark-map) mind map view
 			  collapsed:: true
 				- TODO css should be moddable, looks too cramped by default
@@ -54,6 +55,7 @@
 			- trivia: made by the first [logseq hobbit](https://pengx17.vercel.app/posts/my-logseq-contributions)
 			- TODO make it work with the focused block even when not in edit mode
 		- #totry [logseq-awesome-props](https://github.com/yoyurec/logseq-awesome-props) customize how properties look
+		  collapsed:: true
 			- TODO there should be fine grained visibility controls for focused/unfocused and folded/unfolded
 		- [logseq-copy-code-plugin](https://github.com/vyleung/logseq-copy-code-plugin) Copy code from code blocks to your clipboard
 		  collapsed:: true
@@ -105,8 +107,9 @@
 					- maybe other alt frontentds?
 		- [logseq-web-parser](https://github.com/sawhney17/logseq-web-parser) attempts to parse a webpage into markdown block(s)
 		  id:: 676141f7-e755-4a5b-8f59-3e83660c0bc9
+		  collapsed:: true
 			- TODO option to put open graph fields (or other meta info gleaned from html tags?) into block children or block properties
-			- [logseq-recipeimporter-plugin](https://github.com/hkgnp/logseq-recipeimporter-plugin) same thing but specifically for recipes
+		- [logseq-recipeimporter-plugin](https://github.com/hkgnp/logseq-recipeimporter-plugin) same thing but specifically for recipes
 	- ## specific services.
 		- TODO ideally these would all have a unified interface and be called by url from a capture plugin. maybe write middleware about it?
 		- [logseq-hypothesis](https://github.com/c6p/logseq-hypothesis)  plugin for hypothes.is
@@ -114,7 +117,6 @@
 		- [logseq-tweet-extractor](https://github.com/sawhney17/logseq-twitter-extractor) parse tweets into custom template
 		  id:: 6761960a-2ec4-462a-8e10-7a28dbaf60d8
 		- #totry [logseq-github-plugin](https://github.com/sawhney17/logseq-github-plugin) fetch/parse stuff from github like active issues etc
-		  collapsed:: true
 			- [logseq-show-github-star](https://github.com/studyduck/logseq-show-github-star) renders star counts on github repo urls
 			  collapsed:: true
 				- TODO only show stars on top level repo urls, not subpages
