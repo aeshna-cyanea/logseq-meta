@@ -130,7 +130,7 @@
 - # todos and time management
   query-table:: false
 	- automation
-		- #didnotwork [logseq-task-automation](https://github.com/aiirobyte/logseq-task-automation) changes parent task to `doing` when at least one child is `doing`, could be in ((676185bd-6d4e-423d-8294-3c1ad139ee5b))
+		- #didnotwork [logseq-task-automation](https://github.com/aiirobyte/logseq-task-automation) changes parent task to `doing` when at least one child is `doing`
 			- auto toggling parent doesn't work :|
 			- neither do the commands (they also use the [[manual command config]])
 	- [logseq-todo-plugin](https://github.com/haydenull/logseq-plugin-markdown-table) quickly search your TODO items and easily add one to today's journal page
@@ -142,8 +142,8 @@
 		- #totry [logseq-task-done-time-mtini](https://github.com/mlhiter/logseq-task-done-time-mini) [readme](https://github.com/mlhiter/logseq-task-done-time-mini/blob/master/README.en.md)
 	- #totry  [logseq-cycle-todo-dwim](https://github.com/hron/logseq-cycle-todo-dwim)  Cycle TODO state (Do What I Mean) Ctrl+Enter with repeating timestamp support, similar to org-mode
 	- visualization
-		- #totry [logseq-plugin-better-tasks](https://github.com/dsarman/logseq-plugin-better-tasks)
-		- [logseq-plugin-todo-master](https://github.com/pengx17/logseq-plugin-todo-master) simple progess bar of all tasks on page
+		- #totry [logseq-plugin-better-tasks](https://github.com/dsarman/logseq-plugin-better-tasks) multicolored progress bar for subtasks and heatmap for recurring tasks
+			- #totry [logseq-plugin-todo-master](https://github.com/pengx17/logseq-plugin-todo-master) simple progess bar of all tasks on page
 	- [logseq-todo-exploder](https://github.com/sawhney17/logseq-todo-exploder) confetti on completed todos :)
 	  collapsed:: true
 		- laggy on my machine :(
