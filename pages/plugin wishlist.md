@@ -9,12 +9,12 @@
 	  :END:
 		- TODO there's already a mouse hover preview for references that displays the block in editable form - figure out how to invoke it from keyboard.
 	- select original ancestor block (so you don't have to use ctrl-a like 6 times you're deep in the weeds)
-- timestamp support for local audio and video files https://web.archive.org/web/20240826181136/https://github.com/sethyuan/logseq-plugin-media-ts/blob/master/README.en.md
-  id:: 676f3c79-aa49-41ee-8edf-67e7bbaa7afd
 - inputting quotes while a string is selected wraps the string in quotes.
   id:: 67631850-7c5e-441d-a8f8-36cca93058a3
 	- [sethyuan really was holding up half of logseq's basic functionality, please come back man. left-pad moment](https://discord.com/channels/725182569297215569/752845167030960141/1199153970833281145)
 	- already implemented in "magic quotes" command of ((676199c1-c0a0-42de-839e-7781f134d629)), just need to make it kick in passively
+- timestamp support for local audio and video files. [another sethyuan moment](https://web.archive.org/web/20240826181136/https://github.com/sethyuan/logseq-plugin-media-ts/blob/master/README.en.md)
+  id:: 676f3c79-aa49-41ee-8edf-67e7bbaa7afd
 - "polyfill" for ((676200f1-1f67-44c0-94e7-6500a19672f4)). can be based on ((676301aa-0bd2-4dd0-af07-94ce723d1be3))
 	- related: command/config option to increase default context displayed when jumping to a block from a plain link
 	  collapsed:: true
