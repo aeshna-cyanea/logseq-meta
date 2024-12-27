@@ -1,6 +1,4 @@
-- #+BEGIN_NOTE
-  lists sorted mostly by perceived usefulness/coolness
-  #+END_NOTE
+- lists sorted mostly by perceived usefulness/coolness
 - # general
 	- most of these should really be merged into the main app imo
 	- ## navigation
