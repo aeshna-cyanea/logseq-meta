@@ -58,6 +58,7 @@
 		- #totry [logseq-awesome-props](https://github.com/yoyurec/logseq-awesome-props) customize how properties look
 		  collapsed:: true
 			- TODO there should be fine grained visibility controls for focused/unfocused and folded/unfolded
+		- [logseq13-shorten-my-links](https://github.com/stdword/logseq13-shorten-my-links) shorten long links with namespaces
 		- [logseq-copy-code-plugin](https://github.com/vyleung/logseq-copy-code-plugin) Copy code from code blocks to your clipboard
 		  collapsed:: true
 			- TODO always visible for inline blocks
@@ -111,7 +112,7 @@
 		  collapsed:: true
 			- TODO option to put open graph fields (or other meta info gleaned from html tags?) into block children or block properties
 		- [logseq-recipeimporter-plugin](https://github.com/hkgnp/logseq-recipeimporter-plugin) same thing but specifically for recipes
-	- ## specific services.
+	- ## specific services
 		- TODO ideally these would all have a unified interface and be called by url from a capture plugin. maybe write middleware about it?
 		- [logseq-hypothesis](https://github.com/c6p/logseq-hypothesis)  plugin for hypothes.is
 		- [logseq-inbox-telegram-plugin](https://github.com/shady2k/logseq-inbox-telegram-plugin) fetch from a telegram bot. requires heroku
