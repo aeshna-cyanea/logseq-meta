@@ -19,6 +19,7 @@
 		- this wouldn't be the same as just showing the block in the page, but a special view with just the parents (no siblings)
 - pasting content on an focused block (while in view mode) block pastes the content as a new block under it
   id:: 676301a9-62b5-42d7-b88d-d516bc4ec0ef
+- ((676f3c79-aa49-41ee-8edf-67e7bbaa7afd))
 - truncate long formatted urls when editing. putting the cursor on the url expands it.
   collapsed:: true
 	- i generally hate rich-text/wysiwyg editing but making an exception here
