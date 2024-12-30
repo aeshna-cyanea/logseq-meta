@@ -21,7 +21,7 @@
 			- does not display all matches in the scroll bar like a modern browser
 			- does not support regex (ok this is optional, but the first two are kinda necessary)
 		- logseq:// urls
-			- on my version of KDE (arch btw) logseq raises itself when clicking a link to another graph, but only if the window with the target
+			- on my version of KDE (arch btw) logseq raises itself when clicking a link to another graph, but only if the window with the target graph is open to another page. otherwise focuses but does not raise (worse than not focusing at all)
 	- text editing
 		- ((67631850-7c5e-441d-a8f8-36cca93058a3))
 		- ((676301a9-62b5-42d7-b88d-d516bc4ec0ef))
