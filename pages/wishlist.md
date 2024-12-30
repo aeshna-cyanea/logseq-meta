@@ -1,6 +1,7 @@
 - bugs and basic borked functionality
 	- navigation
 		- ctrl-k annoyances
+		  collapsed:: true
 			- block search matches should be above the create page button!! if there is a matching block i'm hell of a lot more likely to want the match than to make a new page
 			- navigating to a result should work like this plugin ((676202f0-06eb-4c08-a4ba-bfccfdf0aa4f)) except across pages ofc
 			  collapsed:: true
@@ -9,14 +10,18 @@
 				  losing visual context (from unexpected page jumps) sucks so bad.
 					- when i "go to" a block that is on the same page as the current one, it should just scroll to that block. i can decide myself whether to zoom in after
 		- is there no keyboard based way to navigate up out of a zoomed in block unless you're in edit mode?
+		  collapsed:: true
 			- the command is called "Zoom out editing block / Backwards otherwise" and it works (in edit mode)
 				- but when not in edit mode it doesn't even go back!
 				- really these commands should be split and "zoom out/go to parent block" should work in view mode as well
 					- ((676199c1-c0a0-42de-839e-7781f134d629)) has an action for this, could maybe be patched. "zoom out" and "scroll to parent" should definitely be a single command
 		- find prompt
+		  collapsed:: true
 			- ["Find in page" does not focus the find prompt if it is already open unfocused](https://github.com/logseq/logseq/issues/8360)
 			- does not display all matches in the scroll bar like a modern browser
 			- does not support regex (ok this is optional, but the first two are kinda necessary)
+		- logseq:// urls
+			- on my version of KDE (arch btw) logseq raises itself when clicking a link to another graph, but only if the window with the target
 	- text editing
 		- ((67631850-7c5e-441d-a8f8-36cca93058a3))
 		- ((676301a9-62b5-42d7-b88d-d516bc4ec0ef))
