@@ -29,6 +29,8 @@
 - "lock" a block to prevent accidental edits
 - more specific versions of ((676141f7-e755-4a5b-8f59-3e83660c0bc9))
   id:: 676301a9-2fb0-4f3e-ae75-b8b7225b2d25
+	- TODO these can probably be implemented in ((677407a1-9cf0-4e56-833b-b96a6b37b71e))
+	  ask stdword on discord!
 	- sites
 		- rss/atom
 			- [logseq-rss-reader](https://github.com/b-yp/logseq-rss-reader) is not it (modal reader, not blocks embed) but maybe worth checking out the libs used

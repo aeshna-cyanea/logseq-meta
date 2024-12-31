@@ -39,6 +39,7 @@
 		- #totry [logseq13-missing-commands](https://github.com/stdword/logseq13-missing-commands) lots of stuff, see readme
 		  id:: 676199c1-c0a0-42de-839e-7781f134d629
 		- #totry [logseq13-full-house-plugin](https://github.com/stdword/logseq13-full-house-plugin) more powerful templates, prettier styling
+		  id:: 677407a1-9cf0-4e56-833b-b96a6b37b71e
 		- #totry  [logseq-quick-add-plugin](https://github.com/vyleung/logseq-quick-add-plugin)  commands to add and duplicate blocks and insert current time
 		  collapsed:: true
 			- [logseq-datetag-plugin](https://github.com/sawhney17/logseq-datetag-plugin) append the creation date of a block as a tag. Requires block timestamps to be enabled in settings. obsolete in db version
