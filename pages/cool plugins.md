@@ -109,7 +109,6 @@
 					- maybe other alt frontentds?
 		- [logseq-web-parser](https://github.com/sawhney17/logseq-web-parser) attempts to parse a webpage into markdown block(s)
 		  id:: 676141f7-e755-4a5b-8f59-3e83660c0bc9
-		  collapsed:: true
 			- TODO option to put open graph fields (or other meta info gleaned from html tags?) into block children or block properties
 		- [logseq-recipeimporter-plugin](https://github.com/hkgnp/logseq-recipeimporter-plugin) same thing but specifically for recipes
 	- ## specific services

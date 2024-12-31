@@ -42,3 +42,5 @@
 		  id:: 6764239e-f627-4646-bc65-447f48cefa43
 		- tumblr
 		- lobste.rs
+		- github
+			- lists and repos (can use the api when auto detecting)
