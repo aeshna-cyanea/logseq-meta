@@ -125,9 +125,9 @@
 		- #totry [logseq-koreader-sync](https://github.com/isosphere/logseq-koreader-sync) sadly one-way (down) (for now)
 		- #totry [logseq-trello-plugin](https://github.com/jarodise/logseq-trello-plugin) two-way sync
 		- #totry [logseq-nostr-sync](https://github.com/KoalaSat/logseq-nostr-sync) one-way (down)
+		- #totry [logseq-inbox-telegram-plugin](https://github.com/shady2k/logseq-inbox-telegram-plugin) fetch from a telegram bot.
 		- wishlist for more services
 			- {{embed ((676301a9-2fb0-4f3e-ae75-b8b7225b2d25))}}
-		- #didnotwork [logseq-inbox-telegram-plugin](https://github.com/shady2k/logseq-inbox-telegram-plugin) fetch from a telegram bot. requires heroku which no longer exists. still useful as a starting point maybe?
 - # todos and time management
   query-table:: false
 	- automation
