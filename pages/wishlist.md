@@ -39,6 +39,7 @@
 		- TODO footgun: `ctrl-r` should not be bound by default to reload. doesn't this cause data loss? make it `ctrl-shift-r`
 		- timestamp support for local audio and video files, not just youtube. we're a "local first" app after all. [another sethyuan moment](https://web.archive.org/web/20240826181136/https://github.com/sethyuan/logseq-plugin-media-ts/blob/master/README.en.md)
 		  id:: 676f3c79-aa49-41ee-8edf-67e7bbaa7afd
+			- TODO
 	- TODO github search for all of these. i bet they all have long standing issues
 		- also search for prs from bad3r on discord. they seem to have their head on their shoulders and a lot of good ideas for fixing basic broken stuff
 	- [user perceptions of tech debt](https://old.reddit.com/r/logseq/comments/1cc6jiz/the_logseq_team_is_a_terrible_steward_of_logseq/l1kvi9t/) (this comment is relatively friendly, the rest of the thread is pretty mean)
@@ -86,7 +87,7 @@
 		  scripts can be attached to a block, deleted after one use, or stored in a userscript manager (e.g. tampermonkey) style interface for later reuse
 	- so this already exists but seems really clunky to use https://docs.logseq.com/#/page/clojurescript%20eval%20in%20a%20block
 		- needs better docs! this user promised but never delivered. some examples upthread tho https://github.com/logseq/logseq/pull/7287#issuecomment-1322859418 gotta read/document those
-id:: 676301a9-6b2a-40c7-a287-882264bf0383
+		  id:: 676301a9-6b2a-40c7-a287-882264bf0383
 			- more prior art?
 				- use in queries? https://discuss.logseq.com/t/more-function-in-advanced-query-runtime/22975
 	- examples
