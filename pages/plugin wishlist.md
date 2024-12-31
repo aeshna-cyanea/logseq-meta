@@ -31,6 +31,7 @@
   id:: 676301a9-2fb0-4f3e-ae75-b8b7225b2d25
 	- TODO these can probably be implemented in ((677407a1-9cf0-4e56-833b-b96a6b37b71e))
 	  ask stdword on discord!
+	- in general use the site's rest api when available!
 	- sites
 		- rss/atom
 			- [logseq-rss-reader](https://github.com/b-yp/logseq-rss-reader) is not it (modal reader, not blocks embed) but maybe worth checking out the libs used
@@ -45,4 +46,4 @@
 		- tumblr
 		- lobste.rs
 		- github
-			- lists and repos (can use the api when auto detecting)
+			- lists and repos
