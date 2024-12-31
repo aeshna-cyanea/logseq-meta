@@ -39,7 +39,7 @@
 		- TODO footgun: `ctrl-r` should not be bound by default to reload. doesn't this cause data loss? make it `ctrl-shift-r`
 		- timestamp support for local audio and video files, not just youtube. we're a "local first" app after all. [another sethyuan moment](https://web.archive.org/web/20240826181136/https://github.com/sethyuan/logseq-plugin-media-ts/blob/master/README.en.md)
 		  id:: 676f3c79-aa49-41ee-8edf-67e7bbaa7afd
-			- TODO https://github.com/stdword/logseq-plugin-media-ts/blob/main/README.en.md
+			- TODO get it into the logseq store again https://github.com/stdword/logseq-plugin-media-ts/blob/main/README.en.md
 	- TODO github search for all of these. i bet they all have long standing issues
 		- also search for prs from bad3r on discord. they seem to have their head on their shoulders and a lot of good ideas for fixing basic broken stuff
 	- [user perceptions of tech debt](https://old.reddit.com/r/logseq/comments/1cc6jiz/the_logseq_team_is_a_terrible_steward_of_logseq/l1kvi9t/) (this comment is relatively friendly, the rest of the thread is pretty mean)
