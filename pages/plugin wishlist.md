@@ -29,7 +29,7 @@
 - "lock" a block to prevent accidental edits
 - more specific versions of ((676141f7-e755-4a5b-8f59-3e83660c0bc9))
   id:: 676301a9-2fb0-4f3e-ae75-b8b7225b2d25
-	-
+	- sites
 		- rss/atom
 			- [logseq-rss-reader](https://github.com/b-yp/logseq-rss-reader) is not it (modal reader, not blocks embed) but maybe worth checking out the libs used
 		- web hosted logseq pages

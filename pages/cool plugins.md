@@ -115,10 +115,9 @@
 	- ## specific services
 		- TODO ideally these would all have a unified interface and be called by url from a capture plugin. maybe write middleware about it?
 		- [logseq-hypothesis](https://github.com/c6p/logseq-hypothesis)  plugin for hypothes.is
-		- #didnotwork [logseq-inbox-telegram-plugin](https://github.com/shady2k/logseq-inbox-telegram-plugin) fetch from a telegram bot. requires heroku
 		- [logseq-tweet-extractor](https://github.com/sawhney17/logseq-twitter-extractor) parse tweets into custom template
 		  id:: 6761960a-2ec4-462a-8e10-7a28dbaf60d8
-		- #totry [logseq-github-plugin](https://github.com/sawhney17/logseq-github-plugin) fetch/parse stuff from github like active issues etc
+		- #totry [logseq-github-plugin](https://github.com/sawhney17/logseq-github-plugin) fetch/parse issues from github
 			- [logseq-show-github-star](https://github.com/studyduck/logseq-show-github-star) renders star counts on github repo urls
 			  collapsed:: true
 				- TODO only show stars on top level repo urls, not subpages
@@ -128,6 +127,7 @@
 		- #totry [logseq-nostr-sync](https://github.com/KoalaSat/logseq-nostr-sync) one-way (down)
 		- wishlist for more services
 			- {{embed ((676301a9-2fb0-4f3e-ae75-b8b7225b2d25))}}
+		- #didnotwork [logseq-inbox-telegram-plugin](https://github.com/shady2k/logseq-inbox-telegram-plugin) fetch from a telegram bot. requires heroku which no longer exists. still useful as a starting point maybe?
 - # todos and time management
   query-table:: false
 	- automation
