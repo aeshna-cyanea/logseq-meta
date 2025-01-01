@@ -28,8 +28,9 @@
 					- command for editing a block
 					- a way to show the logseq context menu would be ideal
 			- [logseq-toc-plugin](https://github.com/benjypng/logseq-toc-plugin)
-			  collapsed:: true
 				- TODO make it work with indentation levels, not just markdown headings
+				- TODO render markdown
+				- TODO truncate after newlines and long lines
 			- #totry [logseq-graph-analysis](https://github.com/trashhalo/logseq-graph-analysis) Learn more about the relationships between between your notes using network analysis algorithms.
 			- #totry [GitHub - cannibalox/logtools](https://github.com/cannibalox/logtools) utilities for kanban chart, image gallery, numbered lists with numbered subsections (!), etc. see readme
 				- ((676199c1-c0a0-42de-839e-7781f134d629)) has kanban and gallery views as well
