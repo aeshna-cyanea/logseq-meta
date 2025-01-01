@@ -86,7 +86,7 @@
 	- The attribute `:block/journal?` no longer exists. If used in an advanced query including in config.edn's `:default-queries`, change it to use `:block/type` e.g. `[?p :block/journal? true]` \-> `[?p :block/type "journal"]`
 		- You can’t perform that action at this time.
 - notes on others' feedback
-	- cool users users to search for:
+	- cool users who have cool thoughts:
 		- devs
 			- #tienson
 			- #cldwalker
