@@ -90,7 +90,7 @@
 		- devs
 			- tienson
 			- cldwalker
-		- wanderer
-		-
 		- blogbourri
+		- wanderer
+		- stdword
 		-
