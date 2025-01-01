@@ -61,8 +61,7 @@
 			- TODO there should be fine grained visibility controls for focused/unfocused and folded/unfolded
 		- [logseq13-shorten-my-links](https://github.com/stdword/logseq13-shorten-my-links) shorten long links with namespaces
 		- [logseq-copy-code-plugin](https://github.com/vyleung/logseq-copy-code-plugin) Copy code from code blocks to your clipboard
-		  collapsed:: true
-			- TODO always visible for inline blocks
+			- TODO make it show on the inside of the block, not outside
 		- [logseq-plugin-show-page-date](https://github.com/YU000jp/logseq-plugin-show-page-date) show creation and modification dates on pages.
 		- [logseq-randomutils-plugin](https://github.com/benjypng/logseq-randomutils-plugin) useful for dictionary lookup and google search commands
 		  collapsed:: true
