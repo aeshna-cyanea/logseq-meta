@@ -86,12 +86,14 @@
 	- The attribute `:block/journal?` no longer exists. If used in an advanced query including in config.edn's `:default-queries`, change it to use `:block/type` e.g. `[?p :block/journal? true]` \-> `[?p :block/type "journal"]`
 		- You can’t perform that action at this time.
 - notes on others' feedback
-	- users to search for:
+	- cool users users to search for:
 		- devs
-			- tienson
-			- cldwalker
-		- blogbourri
-		- wanderer
-		- stdword
-		- alxlg
-		-
+			- #tienson
+			- #cldwalker
+		- #blogbourri
+		- #wanderer
+		- #stdword
+		- #alxlg
+	- dev apocrypha
+		- #tienson: Hi. Thanks for the feedback here. I've removed block name uniqueness as I don't want to break existing workflows. Will be interested to see if use cases emerge where unique tagged blocks could be helpful and how to support that. [https://github.com/logseq/docs/blob/feat/db/db-version.md#nodes](https://github.com/logseq/docs/blob/feat/db/db-version.md#nodes) has more details on uniqueness
+		  https://discord.com/channels/725182569297215569/1282266595418439690/1283804107852746752
