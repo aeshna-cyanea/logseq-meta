@@ -23,11 +23,12 @@
 		- logseq:// urls
 			- on my version of KDE (arch btw) logseq raises itself when clicking a link to another graph, but only if the window with the target graph is open to another page. otherwise focuses but does not raise (worse than not focusing at all)
 	- text editing
+		- UNDO DOESN'T ALWAYS WORK RELIABLY. sometimes  most critical out of all of of these. makes me lose trust in logseq, computers, and humanity in general
 		- ((67631850-7c5e-441d-a8f8-36cca93058a3))
 		- ((676301a9-62b5-42d7-b88d-d516bc4ec0ef))
 		- sometimes undoing doesn't work [related feature request](((6767da5c-d6d9-43c1-912c-11bdea91ab6a)))
 		- clicking on a block doesn't always put the cursor where you clicked, sometimes it gets put at the beginning or end. very annoying and probably fixable
-		-
+		- toggling numbered list of a node with children list doesn't toggle all the children (only the first few D:)
 	- other (sorted by annoyance level):
 		- [aliases are always visible on graph](https://discuss.logseq.com/t/improve-implementation-of-aliases/81/40) [matching github issue](https://github.com/logseq/logseq/issues/4709)
 		- deleting the top level block from inside an embed should also kill original block "in real life".
