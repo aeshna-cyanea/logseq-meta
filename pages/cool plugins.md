@@ -90,11 +90,11 @@
 					- would mean merging this plugin into ((6761960a-2ec4-462a-8e10-7a28dbaf60d8))
 				- sites i like to use, each one needs a regex rule
 				  collapsed:: true
-					- DOING bsky.app
+					- TODO bsky.app
 					  :LOGBOOK:
 					  CLOCK: [2024-12-18 Wed 01:49:53]--[2024-12-18 Wed 01:49:55] =>  00:00:02
 					  CLOCK: [2024-12-18 Wed 01:54:26]--[2024-12-18 Wed 01:54:31] =>  00:00:05
-					  CLOCK: [2024-12-18 Wed 01:54:31]
+					  CLOCK: [2024-12-18 Wed 01:54:31]--[2025-01-02 Thu 10:28:44] =>  368:34:13
 					  :END:
 					- TODO x.com
 					- TODO discord.com
