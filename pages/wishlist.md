@@ -23,7 +23,7 @@
 		- logseq:// urls
 			- on my version of KDE (arch btw) logseq raises itself when clicking a link to another graph, but only if the window with the target graph is open to another page. otherwise focuses but does not raise (worse than not focusing at all)
 	- text editing
-		- UNDO DOESN'T ALWAYS WORK RELIABLY. sometimes a change gets applied and somehow doesn't end up in the undo buffer so i keep pressing ctrl-z and undoing wanted changes while the unwanted one persists.
+		- UNDO DOESN'T ALWAYS WORK RELIABLY. sometimes a weird change gets applied (usually due to a misclick or big operation like when moving a lot of blocks) and somehow doesn't end up in the undo buffer so i keep pressing ctrl-z and undoing wanted changes while the unwanted one persists.
 			- most critical out of all of of these. makes me lose trust in logseq, computers, and humanity in general
 		- ((67631850-7c5e-441d-a8f8-36cca93058a3))
 		- ((676301a9-62b5-42d7-b88d-d516bc4ec0ef))
