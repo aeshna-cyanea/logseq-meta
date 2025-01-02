@@ -127,6 +127,7 @@
 		- #totry [logseq-nostr-sync](https://github.com/KoalaSat/logseq-nostr-sync) one-way (down)
 		- #totry [logseq-inbox-telegram-plugin](https://github.com/shady2k/logseq-inbox-telegram-plugin) fetch from a telegram bot.
 		- wishlist for more services
+		  collapsed:: true
 			- {{embed ((676301a9-2fb0-4f3e-ae75-b8b7225b2d25))}}
 - # todos and time management
   query-table:: false
