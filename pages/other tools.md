@@ -1,3 +1,4 @@
 - https://repo.tiye.me/mvc-works/edn-formatter/
 	- useful for trying to manually fix borked whiteboards
+- TODO add here a nice markdown table prettifier too
 -

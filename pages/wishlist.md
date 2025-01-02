@@ -33,16 +33,20 @@
 	- other (sorted by annoyance level):
 		- [aliases are always visible on graph](https://discuss.logseq.com/t/improve-implementation-of-aliases/81/40) [matching github issue](https://github.com/logseq/logseq/issues/4709)
 		- deleting the top level block from inside an embed should also kill original block "in real life".
+		  collapsed:: true
 			- this should delete the embed at the source too.
 				- if the block that contained the embed contained nothing else, delete the whole block too
 			- note: deleting children already works as expected (updates original's children) but not the top level of the embed
 		- there is global.edn but no global.css?
+		  collapsed:: true
 			- you can `@import url("../assets/custom/header_label.css");` but i [had to google for it](https://discuss.logseq.com/t/custom-css-cant-import/3297/4).
 				- TODO proposal: just have a global.css and have it be imported by default in new graphs. it's silly having to define an import (even to a relative path) for every graph.
 		- TODO footgun: `ctrl-r` should not be bound by default to reload. doesn't this cause data loss? make it `ctrl-shift-r`
 		- timestamp support for local audio and video files, not just youtube. we're a "local first" app after all. [another sethyuan moment](https://web.archive.org/web/20240826181136/https://github.com/sethyuan/logseq-plugin-media-ts/blob/master/README.en.md)
 		  id:: 676f3c79-aa49-41ee-8edf-67e7bbaa7afd
+		  collapsed:: true
 			- TODO get it into the logseq store again https://github.com/stdword/logseq-plugin-media-ts/blob/main/README.en.md
+		- when you delete a new block added to a whiteboard, it still stays in
 	- TODO github search for all of these. i bet they all have long standing issues
 		- also search for prs from bad3r on discord. they seem to have their head on their shoulders and a lot of good ideas for fixing basic broken stuff
 	- [user perceptions of tech debt](https://old.reddit.com/r/logseq/comments/1cc6jiz/the_logseq_team_is_a_terrible_steward_of_logseq/l1kvi9t/) (this comment is relatively friendly, the rest of the thread is pretty mean)
