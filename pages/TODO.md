@@ -1,2 +1,2 @@
-filters:: {"totry" true, "cool plugins" true}
+filters:: {}
 exclude-from-graph-view:: true
