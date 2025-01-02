@@ -1,4 +1,4 @@
 - TODO fix the issue submission process
 	- https://docs.github.com/en/communities/using-templates-to-encourage-useful-issues-and-pull-requests/syntax-for-githubs-form-schema
 	- github action to apply labels
-	- ban submission unless certain diagnostic files are ar
+	- ban submission unless certain diagnostic files are are present
