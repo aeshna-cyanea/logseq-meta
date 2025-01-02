@@ -421,7 +421,9 @@
  :file/name-format :triple-lowbar
  :feature/enable-journals? false
  :default-home {:page "Contents"}
- :graph/settings {:builtin-pages? true
- :excluded-pages? false}
+ :graph/settings {:builtin-pages? false
+ :excluded-pages? false
+ :journal? false
+ :orphan-pages? true}
  :publishing/all-pages-public? true
  }
