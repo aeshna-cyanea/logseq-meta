@@ -16,7 +16,7 @@
 			- TODO add case sensitivity and maybe regex
 		- [logseq-save-scrollbar-position](https://github.com/studyduck/logseq-save-scrollbar-position) preserves scroll position when navigating
 		  id:: 67618731-9058-485d-84ee-7da166efec6a
-		- ### alternate views
+		- ### alternate views (rearranging blocks)
 			- [logseq-classy](https://github.com/mlanza/logseq-classy) Facilitates otherwise impossible custom stylesheets by applying classes to blocks identified in custom queries. enables:
 				- #totry [logseq-style-carousel](https://github.com/mlanza/logseq-style-carousel) Add button(s) for stylesheet-driven effects such as toggling the visibility of completed to-dos.
 				  collapsed:: true
@@ -33,7 +33,7 @@
 				- TODO truncate after newlines and long lines
 			- #totry [logseq-graph-analysis](https://github.com/trashhalo/logseq-graph-analysis) Learn more about the relationships between between your notes using network analysis algorithms.
 			- #totry [GitHub - cannibalox/logtools](https://github.com/cannibalox/logtools) utilities for kanban chart, image gallery, numbered lists with numbered subsections (!), etc. see readme
-				- ((676199c1-c0a0-42de-839e-7781f134d629)) has kanban and gallery views as well
+				- [this one](((676199c1-c0a0-42de-839e-7781f134d629))) has kanban and gallery views as well
 			- #totry [logseq-custom-files](https://github.com/cannibalox/logseq-custom-files) resizable query results columns, better twitter embeds, better sidebar
 			- #didnotwork [logseq-filterpage-plugin](https://github.com/benjypng/logseq-filterpage-plugin) Quickly filter the current page based on tags that you want to include or exclude. only a plain filter, but with arbitrary value
 	- ## block manipulation
@@ -52,7 +52,7 @@
 		- [logseq-quick-date](https://github.com/13hannes11/logseq-quick-date) commands to insert relative date, such as 'Last Wednesday' and 'Next Friday'
 		  collapsed:: true
 			- TODO extend to add days of the month, not just next/last week
-	- ## block presentation
+	- ## block presentation (within a single block)
 		- [logseq-bullet-threading](https://github.com/pengx17/logseq-plugin-bullet-threading) Add threading indicators to your active block
 		  collapsed:: true
 			- trivia: made by the first [logseq hobbit](https://pengx17.vercel.app/posts/my-logseq-contributions)
