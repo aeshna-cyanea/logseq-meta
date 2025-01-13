@@ -29,7 +29,7 @@
 					- a way to show the logseq context menu would be ideal
 			- [logseq-toc-plugin](https://github.com/benjypng/logseq-toc-plugin)
 				- TODO make it work with indentation levels, not just markdown headings
-				- TODO render markdown
+				- TODO parse/render markdown
 				- TODO truncate after newlines and long lines
 			- #totry [logseq-graph-analysis](https://github.com/trashhalo/logseq-graph-analysis) Learn more about the relationships between between your notes using network analysis algorithms.
 			- #totry [GitHub - cannibalox/logtools](https://github.com/cannibalox/logtools) utilities for kanban chart, image gallery, numbered lists with numbered subsections (!), etc. see readme
