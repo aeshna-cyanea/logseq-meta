@@ -58,7 +58,6 @@
 			- trivia: made by the first [logseq hobbit](https://pengx17.vercel.app/posts/my-logseq-contributions)
 			- TODO make it work with the focused block even when not in edit mode
 		- #totry [logseq-awesome-props](https://github.com/yoyurec/logseq-awesome-props) customize how properties look
-		  collapsed:: true
 			- TODO there should be fine grained visibility controls for focused/unfocused and folded/unfolded
 		- [logseq13-shorten-my-links](https://github.com/stdword/logseq13-shorten-my-links) shorten long links with namespaces
 		- [logseq-copy-code-plugin](https://github.com/vyleung/logseq-copy-code-plugin) Copy code from code blocks to your clipboard
