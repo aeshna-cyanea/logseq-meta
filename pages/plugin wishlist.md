@@ -9,8 +9,8 @@
 	  :END:
 		- TODO there's already a mouse hover preview for references that displays the block in editable form - figure out how to invoke it from keyboard.
 	- select original ancestor block (so you don't have to use ctrl-a like 6 times you're deep in the weeds)
-	- unindent all immediate children of a block
-		-
+	- select and unindent all immediate children of a block
+		- on repeated invocation, unindent its grandchildren and so on
 - inputting quotes while a string is selected wraps the string in quotes.
   id:: 67631850-7c5e-441d-a8f8-36cca93058a3
 	- [sethyuan really was holding up half of logseq's basic functionality, please come back man. left-pad moment](https://discord.com/channels/725182569297215569/752845167030960141/1199153970833281145)
