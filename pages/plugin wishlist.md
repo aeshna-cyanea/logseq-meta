@@ -22,7 +22,7 @@
 	  collapsed:: true
 		- this wouldn't be the same as just showing the block in the page, but a special view with just the parents (no siblings)
 - ((676f3c79-aa49-41ee-8edf-67e7bbaa7afd))
-- a way to filter out hunks that are just for collapsing/expanding in git autosaves. either a plugin mod or a python script in a commit hook (when using external git)
+- a way to filter out hunks that are just for collapsing/expanding in git autosaves. either a plugin mod or a python script triggered
 - truncate long formatted urls when editing. putting the cursor on the url expands it.
   collapsed:: true
 	- i generally hate rich-text/wysiwyg editing but making an exception here
