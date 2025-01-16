@@ -168,8 +168,7 @@
 	- [logseq-plugin-git](https://github.com/haydenull/logseq-plugin-git) git commands from logseq
 		- kinda janky tbh
 			- TODO better to set up github hooks to auto sync every commit
-			- TODO also a custom script to open a git client to squash and force push for a legible commit history
-				-
+			- TODO the auto sync should push to a 'backup' branch every 2-3 minutes. the manual command (also frequently used, but only after meaningful changes) should push to 'main'
 	- ## asset management
 		- TODO these should really be merged and integrated. for now figure out which is better
 			- #totry [logseq-plugin-file-manager](https://github.com/haydenull/logseq-plugin-file-manager) A file manager plugin for logseq (Search unused assets file).
