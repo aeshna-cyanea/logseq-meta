@@ -22,6 +22,7 @@
 	  collapsed:: true
 		- this wouldn't be the same as just showing the block in the page, but a special view with just the parents (no siblings)
 - ((676f3c79-aa49-41ee-8edf-67e7bbaa7afd))
+- a way to filter out hunks that are just for collapsing/expanding in git autosaves.
 - truncate long formatted urls when editing. putting the cursor on the url expands it.
   collapsed:: true
 	- i generally hate rich-text/wysiwyg editing but making an exception here
@@ -31,6 +32,7 @@
 - "lock" a block to prevent accidental edits
 - more specific versions of ((676141f7-e755-4a5b-8f59-3e83660c0bc9))
   id:: 676301a9-2fb0-4f3e-ae75-b8b7225b2d25
+  collapsed:: true
 	- TODO these can probably be implemented in ((677407a1-9cf0-4e56-833b-b96a6b37b71e))
 	  ask stdword on discord!
 		- TODO use the site's rest api when available
