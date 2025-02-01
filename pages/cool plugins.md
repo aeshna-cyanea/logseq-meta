@@ -137,7 +137,6 @@
 	- [logseq-todo-plugin](https://github.com/haydenull/logseq-plugin-markdown-table) quickly search your TODO items and easily add one to today's journal page
 	- #totry [logseq-pomodoro-plugin](https://github.com/sawhney17/logseq-pomodoro-plugin) pomodoro timer
 	- completion date (figure out which works better)
-	  collapsed:: true
 		- #totry [logseq-plugin-task-check-date](https://github.com/DimitryDushkin/logseq-plugin-task-check-date) adds 'completed: <today's date>' property to task upon checking. See README for report generation query.
 		- #totry [logseq-plugin-confirmation-done-task](https://github.com/YU000jp/logseq-plugin-confirmation-done-task)
 		- #totry [logseq-task-done-time-mtini](https://github.com/mlhiter/logseq-task-done-time-mini) [readme](https://github.com/mlhiter/logseq-task-done-time-mini/blob/master/README.en.md)
